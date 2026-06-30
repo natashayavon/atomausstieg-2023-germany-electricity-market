@@ -1,1 +1,0 @@
-Projektpräsentation und zugehörige Präsentationsmaterialien.
