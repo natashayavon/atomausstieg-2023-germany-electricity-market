@@ -1,0 +1,3 @@
+"periode","durchschnitt_gesamt_erzeugung_mwh","durchschnitt_berechneter_verbrauch_mwh","durchschnitt_kernenergie_mwh","durchschnitt_erneuerbare_mwh","durchschnitt_erdgas_mwh","durchschnitt_importe_mwh","durchschnitt_exporte_mwh","kernenergie_anteil_prozent","erneuerbare_anteil_prozent","erdgas_anteil_prozent"
+"vor_atomausstieg","42351868.51","40299848.36","4556485.50","18999356.92","4726800.72","3446880.27","5498900.43","10.76","44.86","11.16"
+"nach_atomausstieg","36346082.40","38546185.11","0.00","21306596.57","4715629.83","6311935.45","4111832.74","0.00","58.62","12.97"
