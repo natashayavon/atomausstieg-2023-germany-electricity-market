@@ -1,1 +1,1 @@
-Raw data files used in the project
+Rohdaten, die im Projekt verwendet wurden
