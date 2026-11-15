@@ -72,3 +72,8 @@ werden, sofern die Vorschau verfügbar ist.
   herunterladen und mit Power BI Desktop interaktiv nutzen.
 - **[Dokumentation](06_documentation/):**
   ergänzende Erläuterungen zur Umsetzung.
+
+## Autorenschaft
+
+- **Autorin:** [Nataliya Yavon](https://github.com/natashayavon)
+- **Co-Autorin:** [Anastasiia Zhytnyk](https://github.com/AZhytnyk/)
